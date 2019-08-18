@@ -1,0 +1,7 @@
+group, Green, Red, Blue
+"Theoretical Production Time",0,0,100
+"Planned Production Time",85,15,0
+"Actual Production Time",75,10,0
+"Netto Production Time",65,10,0
+"Production Time Without Loss",55,10,0
+"Net Total In Production",55,30,0
